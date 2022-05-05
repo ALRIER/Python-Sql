@@ -1,0 +1,8 @@
+﻿Tipo Inmueble;Operación;Ciudad;Valor;Fecha;Vendedor
+casa;Alquiler;Bogotá;505000;2005-10-20;1236985
+Casa;Alquiler;Medellín;420000;2005-10-01;96320582
+Local;Alquiler;Cartagena;378000;2005-10-30;96320582
+Bodega;Venta;Barranquilla;1025000;2005-10-11;1236985
+Apto;Venta;Barranquilla;1123000;2005-10-03;96320582
+Apto;Venta;Barranquilla;1587000;2005-10-25;1111
+Apto;Venta;Barranquilla;2069050;2005-10-04;2222
