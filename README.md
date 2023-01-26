@@ -1,4 +1,9 @@
 # Python-Sql
-Python + Sql repository in which i have some information a bout a little activity i did using those two languages. 
 
-Its an app created for include information into sql database using python. 
+In this repository there are different files in which various web applications have been created. Some of them use geolocation to find addresses; others use python to populate tables in SQL and some others mix both types of parameters.
+
+Please detail all files.
+
+Unfortunately I lost access to the central server so most of the documents do not provide a connection, however the code serves as a great example to follow.
+
+I hope you like it!
